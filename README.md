@@ -1,4 +1,5 @@
 # phina.vue.js_test
+いまのところメリットが思い当たらない
 
 ## Project setup
 ```
